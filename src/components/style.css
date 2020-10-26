@@ -1,0 +1,20 @@
+p {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    letter-spacing: 5px;
+    font-family: Bebas Neue, sans-serif;
+}
+
+/* MEDIA QUERY IS FOR IPADS, CELLPHONES ETC - RESPONSIVE DISPLAY */
+/* Media Query: Tablet or Smaller */
+@media screen and (max-width: 1000px) {
+    .ui segment {
+        margin: auto 10px;
+    }
+}
+
+.container-text {
+    font-size: 2.5rem;
+}
